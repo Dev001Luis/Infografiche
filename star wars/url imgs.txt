@@ -1,0 +1,23 @@
+foto1:https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFqCK_TojsNynphSC1HGDn4gOQ3ufjSC2GKFiSEJnl0noOmATQ
+
+foto2 :https://www.starwarsnews.it/wp-content/uploads/2019/03/star-wars-luke-yoda-episodio-v-impero-colpisce-ancora-bespin-allenamento1.jpg
+
+foto 3 : https://c8.alamy.com/zoomsit/9/b90d14ed1576476e97643742786d99e9/2jh1170.jpg
+
+foto 4:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4C_h0uD8KOhqf8NfvEJlM7VB9RDtotoBspo8AAPJkjKEa6bUF-gRq8WIjY5HijFiyX9E&usqp=CAU
+
+
+
+foto 5:https://www.justnerd.it/wp-content/uploads/2017/08/Star-Wars-Gli-Ultimi-Jedi-Luke-Skywalker.jpg
+
+
+
+.box1{
+width: 13vmax;
+height:19vmax;
+background-color: aqua;
+postiion: absolute;
+left: 3vmax;
+top: 6vmax;
+
+

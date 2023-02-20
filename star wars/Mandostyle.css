@@ -1,0 +1,249 @@
+*{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-image: url(https://rare-gallery.com/uploads/posts/1160547-digital-art-planet-space-sky-space-art-nebula-atmosphere-universe-JoeyJazz-astronomy-contrails-screenshot-computer-wallpaper-atmosphere-of-earth-outer-space-astronomica.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Roboto' , sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+.top1{
+    display: flex;
+    height: 30%;
+    width: 100%;
+    position: relative;
+    align-items: flex-end;
+}
+.logo1{
+    background-color: black;
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0% 100%);
+    width: 43%;
+    position: absolute;
+    z-index: 2;
+}
+.characters{
+    background-color: #58595b;
+    width: 100%;
+    height: 9vh;
+    margin-top: 12px;
+    font-size: 40px;
+    color: #d8d9db;
+    position: relative;
+    z-index: 1;
+    margin-left: 35%;
+    text-align: center;
+}
+.characters h3 {
+    margin-top: 0px;
+    font-size: bold;
+}
+.testata{
+    height: 35vmax;
+}
+.top2{
+    display: flex;
+    position: relative;
+}
+.header{
+    display: flex;
+    position: relative;
+    z-index: 1;
+}
+.title{
+    display: flex;
+    position: absolute;
+    z-index: 2;
+}
+.the{
+    position: absolute;
+    color: rgba(47, 79, 79, 0.688);
+    font-size: 8vh;
+    margin-top: 24vh;
+    margin-left: 42vw;
+}
+.mandotitle{
+    position: absolute;
+    color: rgba(47, 79, 79, 0.722);
+    font-size: 9vh;
+    margin-top: 35vh;
+    margin-left: 42vw;
+}
+.top3{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 14vh;
+    margin-top: 8vh;
+}
+.br{
+    width: 100%;
+    height: 5vh;
+    background-color: darkslategray;
+    position: relative;
+    z-index: 1;
+    margin-top: 4vh;
+}
+.cards{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 12vh;
+    justify-content: space-around;
+    z-index: 2;
+}
+.c1{
+    display: block;
+    background-color: #dcdddf9f;
+    clip-path: polygon(0 0, 100% 0%, 85% 100%, 0% 100%);
+}
+.c2, .c3{
+    display: block;
+    background-color: #dcdddf9f;
+    clip-path: polygon(15% 0, 100% 0, 85% 100%, 0% 100%);
+}
+.c4{
+    display: block;
+    background-color: #dcdddf9f;
+    clip-path: polygon(10% 0, 100% 0, 100% 100%, 0% 100%);
+}
+.st1, .st2, .st3{
+    font-size: 13px;
+    height: 4vh;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    color: darkslategray;
+    justify-content: center;
+}
+.st4{
+    display: flex;
+    height: 5vh;
+    font-size: 13px;
+    font-weight: bold;
+    color: darkslategray;
+    justify-content: center;
+    z-index: 1;
+}
+.rx1, .rx2, .rx3{
+    margin-left: 4vw;
+    height: 4vh;
+    font-size: 13px;
+    font-weight: bold;
+    color: darkslategray;
+    justify-content: center;
+}
+.rx4{
+    margin-left: 3vw;
+    height: 4vh;
+    width: 5vw;
+    font-size: 13px;
+    font-weight: bold;
+    justify-content: flex-start;
+    color: darkslategray;
+    z-index: 2;
+}
+.logo2{
+    height: 8vh;
+    width: 8vh;
+}
+.mid{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    margin-right: 15%;
+    margin-bottom: 14vh;
+}
+.mid1, .mid2{
+    margin-top: 3vh;
+    background-color: rgba(182, 133, 42, 0.545);
+    flex-direction: column;
+    font-size: 20px;
+    padding: 20px 20px;
+}
+.botpage{
+    margin-top: 7vh;
+    display: flex;
+    height: 200%;
+}
+.series{
+    display: flex;
+    width: 50vw;
+    background-color: #58595ba9;
+    flex-direction: column;
+}
+.chapters{
+    background-color: #58595bab;
+    color: whitesmoke;
+    font-size: 4vh;
+    height: 16vh;
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0% 100%);
+}
+.box{
+    display: flex;
+}
+.boxsx{
+    height: 33%;
+    width: 50vw;
+}
+.img1, .img2, .img3{
+    height: 30vh;
+    width: 100%;
+    outline: 4px solid;
+}
+.cpt1, .cpt2, .cpt3{
+    height: 4vh;
+    font-size: 4vh;
+    margin-top: 0px;
+    background-color: #424448cc;
+}
+.res1, .res2, .res3{
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+.mandodx{
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+    z-index: 1;
+}
+.mandobig{
+    height: 180vh;
+    position: relative;
+    z-index: 2;
+}
+.armor{
+    margin-top: 20vh;
+    width: 17vw;
+    height: 17vh;
+    background-color: rgba(112, 128, 144, 0.496);
+    color: antiquewhite;
+    position: absolute;
+    z-index: 3;
+}
+.weapons{
+    background-color: #58595b92;
+    color: antiquewhite;
+    margin-top: 135vh;
+    margin-left: 65vw;
+    outline: 2px black;
+    width: 15vw;
+    height: 22vh;
+    position: absolute;
+    z-index: 4;
+    justify-content: center;
+}
+.companion{
+    margin-top: 70vh;
+    margin-right: 32vw;
+    background-color: rgba(0, 128, 0, 0.573);
+    outline: 2px black;
+    color: antiquewhite;
+    width: 10vw;
+    height: 20vh;
+    position: absolute;
+    z-index: 5;
+}
